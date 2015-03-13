@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6aebbfe5-3b65-41b6-a3cb-7b8b40c28b79</dc:identifier>
+        <dc:title>Interaction entre prosodie didactique et prise de note en L2</dc:title>
+        <dc:creator opf:file-as="M. Faraco, T. Kida" opf:role="aut">M. Faraco, T. Kida</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.5.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>fr</dc:language>
+        <meta content="{&quot;M. Faraco, T. Kida&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2003-01-01T07:46:54+00:00" name="calibre:timestamp"/>
+        <meta content="Interaction entre prosodie didactique et prise de note en L2" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

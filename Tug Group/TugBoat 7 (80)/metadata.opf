@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">80</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c1af938d-c8ef-4c5d-a7f7-8c1d1c1e3770</dc:identifier>
+        <dc:title>TugBoat 7</dc:title>
+        <dc:creator opf:file-as="Group, Tug" opf:role="aut">Tug Group</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.5.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1986-05-31T22:00:00+00:00</dc:date>
+        <dc:language>fr</dc:language>
+        <dc:subject>tex</dc:subject>
+        <dc:subject>literate programming</dc:subject>
+        <meta content="{&quot;Tug Group&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="1986-01-28T07:53:14+00:00" name="calibre:timestamp"/>
+        <meta content="TugBoat 7" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

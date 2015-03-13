@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9f0ca834-a008-45ce-9e8e-5865b8be32c2</dc:identifier>
+        <dc:title>How to read a Book</dc:title>
+        <dc:creator opf:file-as="M. J. Adler, C. Van Doren" opf:role="aut">M. J. Adler, C. Van Doren</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.5.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>fr</dc:language>
+        <meta content="{&quot;M. J. Adler, C. Van Doren&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="1972-01-01T07:47:02+00:00" name="calibre:timestamp"/>
+        <meta content="How to read a Book" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

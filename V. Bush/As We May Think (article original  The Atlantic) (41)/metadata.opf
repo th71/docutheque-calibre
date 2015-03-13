@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">41</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8e20975b-1135-4583-9757-801586621256</dc:identifier>
+        <dc:title>As We May Think (article original  The Atlantic)</dc:title>
+        <dc:creator opf:file-as="Bush, V." opf:role="aut">V. Bush</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.5.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>fr</dc:language>
+        <dc:subject>IHM</dc:subject>
+        <dc:subject>histoire</dc:subject>
+        <dc:subject>hypertexte</dc:subject>
+        <meta content="{&quot;V. Bush&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="1947-07-01T07:49:50+00:00" name="calibre:timestamp"/>
+        <meta content="As We May Think (article original  The Atlantic)" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">136</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">496d29e4-a3bb-45b2-95e2-0eb0945c7de4</dc:identifier>
+        <dc:title>Concrete Mathematics</dc:title>
+        <dc:creator opf:file-as="R. L. Graham, D. E. Knuth,O. Patashnick" opf:role="aut">R. L. Graham, D. E. Knuth,O. Patashnick</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.5.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1990-09-30T23:00:00+00:00</dc:date>
+        <dc:language>fr</dc:language>
+        <dc:subject>math</dc:subject>
+        <dc:subject>algorithmique</dc:subject>
+        <meta content="{&quot;R. L. Graham, D. E. Knuth,O. Patashnick&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-01-31T10:38:20+00:00" name="calibre:timestamp"/>
+        <meta content="Concrete Mathematics" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

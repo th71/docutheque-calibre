@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">77</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cb5bf479-ce7d-4ec6-ac47-eefe8bad41f7</dc:identifier>
+        <dc:title>The Design of Artifacts for Augmenting Intellect</dc:title>
+        <dc:creator opf:file-as="C. Xia, P. Maes" opf:role="aut">C. Xia, P. Maes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.5.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-02-19T17:32:45+00:00</dc:date>
+        <dc:language>fr</dc:language>
+        <dc:subject>IHM</dc:subject>
+        <meta content="{&quot;C. Xia, P. Maes&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-03-07T07:53:00+00:00" name="calibre:timestamp"/>
+        <meta content="The Design of Artifacts for Augmenting Intellect" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

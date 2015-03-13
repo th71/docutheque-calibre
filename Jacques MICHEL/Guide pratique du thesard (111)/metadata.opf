@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">111</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fcf87db0-2211-44af-9793-884bb73f7345</dc:identifier>
+        <dc:title>Guide pratique du thésard</dc:title>
+        <dc:creator opf:file-as="MICHEL, Jacques" opf:role="aut">Jacques MICHEL</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.5.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-02-18T13:47:55+00:00</dc:date>
+        <dc:description>Guide pratique du thésard</dc:description>
+        <dc:language>fr</dc:language>
+        <dc:subject>Guide pratique du thésard</dc:subject>
+        <meta content="{&quot;Jacques MICHEL&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-01-28T07:55:16.902210+00:00" name="calibre:timestamp"/>
+        <meta content="Guide pratique du thésard" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">121</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b2b53e4d-cab5-49c0-9f89-2513a542a98d</dc:identifier>
+        <dc:title>Knowledge Co-Creation and Assistive Technology</dc:title>
+        <dc:creator opf:file-as="Baljko &amp; Hamidi" opf:role="aut">Baljko</dc:creator>
+        <dc:creator opf:file-as="Baljko &amp; Hamidi" opf:role="aut">Hamidi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.5.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>fr</dc:language>
+        <dc:subject>IHM</dc:subject>
+        <meta content="{&quot;Hamidi&quot;: &quot;&quot;, &quot;Baljko&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-01-28T07:55:55+00:00" name="calibre:timestamp"/>
+        <meta content="Knowledge Co-Creation and Assistive Technology" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

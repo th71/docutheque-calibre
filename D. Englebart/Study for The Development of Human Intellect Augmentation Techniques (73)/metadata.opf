@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">73</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6e0725eb-de88-4923-a743-ab5ad12cb1fe</dc:identifier>
+        <dc:title>Study for The Development of Human Intellect Augmentation Techniques</dc:title>
+        <dc:creator opf:file-as="Englebart, D." opf:role="aut">D. Englebart</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.5.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-06-17T19:14:36+00:00</dc:date>
+        <dc:language>fr</dc:language>
+        <dc:subject>IHM</dc:subject>
+        <dc:subject>Augmentation</dc:subject>
+        <meta content="{&quot;D. Englebart&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="1967-03-01T07:52:45+00:00" name="calibre:timestamp"/>
+        <meta content="Study for The Development of Human Intellect Augmentation Techniques" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

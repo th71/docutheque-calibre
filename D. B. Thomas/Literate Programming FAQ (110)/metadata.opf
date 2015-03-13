@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">110</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c67862c4-4811-4b6d-9f27-0a99dc46e201</dc:identifier>
+        <dc:title>Literate Programming FAQ</dc:title>
+        <dc:creator opf:file-as="Thomas, D. B." opf:role="aut">D. B. Thomas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.5.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1993-09-30T23:00:00+00:00</dc:date>
+        <dc:language>fr</dc:language>
+        <dc:subject>literate programming</dc:subject>
+        <meta content="{&quot;D. B. Thomas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="1993-10-15T07:55:13+00:00" name="calibre:timestamp"/>
+        <meta content="Literate Programming FAQ" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

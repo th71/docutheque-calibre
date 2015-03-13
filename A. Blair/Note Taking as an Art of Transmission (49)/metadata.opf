@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">49</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1df420a7-6e61-44b2-aa23-48809126a96d</dc:identifier>
+        <dc:title>Note Taking as an Art of Transmission</dc:title>
+        <dc:creator opf:file-as="Blair, A." opf:role="aut">A. Blair</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.5.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>fr</dc:language>
+        <meta content="{&quot;A. Blair&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2004-01-08T07:50:30+00:00" name="calibre:timestamp"/>
+        <meta content="Note Taking as an Art of Transmission" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

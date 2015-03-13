@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">47</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b95486c3-83f0-42ef-b698-147fa5b9359c</dc:identifier>
+        <dc:title>Comparaison de la prise de notes d'étudiants Japonais et Espagnols dans leur langue native et en français L2</dc:title>
+        <dc:creator opf:file-as="al., A. Piolat et" opf:role="aut">A. Piolat et al.</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.5.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-06-26T08:31:04+00:00</dc:date>
+        <dc:language>fr</dc:language>
+        <meta content="{&quot;A. Piolat et al.&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2003-01-01T07:50:21+00:00" name="calibre:timestamp"/>
+        <meta content="Comparaison de la prise de notes d'étudiants Japonais et Espagnols dans leur langue native et en français L2" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

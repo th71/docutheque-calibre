@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">64</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e4a2140f-5ee4-41cd-95b4-7d4ec808dff1</dc:identifier>
+        <dc:title>Entreprises et entrepreneurs individuels</dc:title>
+        <dc:creator opf:file-as="Grandguillaume, L." opf:role="aut">L. Grandguillaume</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.5.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>fr</dc:language>
+        <meta content="{&quot;L. Grandguillaume&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-01-28T07:51:50+00:00" name="calibre:timestamp"/>
+        <meta content="Entreprises et entrepreneurs individuels" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

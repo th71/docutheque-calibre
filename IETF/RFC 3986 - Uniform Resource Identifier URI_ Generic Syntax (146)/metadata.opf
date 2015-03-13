@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">146</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">14e70a65-c404-4ce8-8d0c-aa8b71f09f45</dc:identifier>
+        <dc:title>RFC 3986 - Uniform Resource Identifier URI: Generic Syntax</dc:title>
+        <dc:creator opf:file-as="IETF" opf:role="aut">IETF</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.5.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-06-29T10:21:21+00:00</dc:date>
+        <dc:description>()</dc:description>
+        <dc:language>fr</dc:language>
+        <meta content="{&quot;IETF&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-01-31T10:41:48+00:00" name="calibre:timestamp"/>
+        <meta content="RFC 3986 - Uniform Resource Identifier URI: Generic Syntax" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

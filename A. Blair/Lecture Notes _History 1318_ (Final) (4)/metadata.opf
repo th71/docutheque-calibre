@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">813e7f09-cd50-45c7-a95f-35febdf44012</dc:identifier>
+        <dc:title>Lecture Notes "History 1318" (Final)</dc:title>
+        <dc:creator opf:file-as="Blair, A." opf:role="aut">A. Blair</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.5.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>fr</dc:language>
+        <meta content="{&quot;A. Blair&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-10-01T06:46:44+00:00" name="calibre:timestamp"/>
+        <meta content="Lecture Notes &quot;History 1318&quot; (Final)" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

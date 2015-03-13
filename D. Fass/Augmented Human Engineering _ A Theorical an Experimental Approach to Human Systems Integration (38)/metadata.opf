@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">38</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">afbc2dc7-b9fe-49ea-91ae-fe244c38cfa8</dc:identifier>
+        <dc:title>Augmented Human Engineering : A Theorical an Experimental Approach to Human Systems Integration</dc:title>
+        <dc:creator opf:file-as="Fass, D." opf:role="aut">D. Fass</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.5.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-07-04T06:53:52+00:00</dc:date>
+        <dc:language>fr</dc:language>
+        <dc:subject>IHM</dc:subject>
+        <dc:subject>Augmentation</dc:subject>
+        <meta content="{&quot;D. Fass&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2012-10-22T06:49:36+00:00" name="calibre:timestamp"/>
+        <meta content="Augmented Human Engineering : A Theorical an Experimental Approach to Human Systems Integration" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

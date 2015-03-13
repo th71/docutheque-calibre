@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">150</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9d4c4d98-3798-488a-b6bd-7494d73f678c</dc:identifier>
+        <dc:title>SPA 3102 Features Guide</dc:title>
+        <dc:creator opf:file-as="CISCO" opf:role="aut">CISCO</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.5.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>fr</dc:language>
+        <meta content="{&quot;CISCO&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-01-31T10:42:06+00:00" name="calibre:timestamp"/>
+        <meta content="SPA 3102 Features Guide" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

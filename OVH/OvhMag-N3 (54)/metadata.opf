@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">54</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5f8b5e37-7e38-41d6-ac1e-70ba7c302a01</dc:identifier>
+        <dc:title>OvhMag-N3</dc:title>
+        <dc:creator opf:file-as="OVH" opf:role="aut">OVH</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.5.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-07-24T09:06:31+00:00</dc:date>
+        <dc:language>fr</dc:language>
+        <meta content="{&quot;OVH&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-01-28T07:50:55+00:00" name="calibre:timestamp"/>
+        <meta content="OvhMag-N3" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

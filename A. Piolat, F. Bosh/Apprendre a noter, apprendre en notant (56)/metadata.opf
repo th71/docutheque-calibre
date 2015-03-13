@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">56</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">927474e0-a58a-40af-951c-3916e5437b13</dc:identifier>
+        <dc:title>Apprendre à noter, apprendre en notant</dc:title>
+        <dc:creator opf:file-as="A. Piolat, F. Bosh" opf:role="aut">A. Piolat, F. Bosh</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.5.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>fr</dc:language>
+        <meta content="{&quot;A. Piolat, F. Bosh&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-01-28T07:51:06+00:00" name="calibre:timestamp"/>
+        <meta content="Apprendre à noter, apprendre en notant" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>
