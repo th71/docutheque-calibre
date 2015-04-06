@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">392</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">44bd8cd8-5dba-4087-aef9-b2f9aa04aac0</dc:identifier>
+        <dc:title>The Black Cat</dc:title>
+        <dc:creator opf:file-as="Poe, Edgar Allan" opf:role="aut">Edgar Allan Poe</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.5.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1842-04-05T23:00:00+00:00</dc:date>
+        <dc:description>"The Black Cat" is a short story by Edgar Allan Poe. It was first published in the August 19, 1843, edition of The Saturday Evening Post. It is a study of the psychology of guilt, often paired in analysis with Poe's "The Tell-Tale Heart". In both, a murderer carefully conceals his crime and believes himself unassailable, but eventually breaks down and reveals himself, impelled by a nagging reminder of his guilt.</dc:description>
+        <dc:publisher>Feedbooks</dc:publisher>
+        <dc:identifier opf:scheme="URN">urn:uuid:e9d50080-223f-11e4-acd3-4c72b9252ec6</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.feedbooks.com/book/759</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Mystery &amp; Detective</dc:subject>
+        <dc:subject>Short Stories</dc:subject>
+        <meta content="{&quot;Edgar Allan Poe&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-04-06T13:40:01.053499+00:00" name="calibre:timestamp"/>
+        <meta content="The Black Cat" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

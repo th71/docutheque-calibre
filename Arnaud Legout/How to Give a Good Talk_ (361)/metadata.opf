@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">361</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b9730b39-1cc1-4195-b44a-24c7062ac1da</dc:identifier>
+        <dc:title>How to Give a Good Talk?</dc:title>
+        <dc:creator opf:file-as="Legout, Arnaud" opf:role="aut">Arnaud Legout</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.5.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>fr</dc:language>
+        <dc:subject>Computer Science</dc:subject>
+        <meta content="{&quot;Arnaud Legout&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-04-06T13:37:50.751277+00:00" name="calibre:timestamp"/>
+        <meta content="How to Give a Good Talk?" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

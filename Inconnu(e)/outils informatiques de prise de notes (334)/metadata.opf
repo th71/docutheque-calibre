@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">334</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">114379db-f8a4-4ba4-8f64-40a6a5c75e5e</dc:identifier>
+        <dc:title>outils informatiques de prise de notes</dc:title>
+        <dc:creator opf:file-as="Inconnu(e)" opf:role="aut">Inconnu(e)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.5.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-03-15T08:46:52+00:00</dc:date>
+        <dc:language>fr</dc:language>
+        <meta content="{&quot;Inconnu(e)&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-04-06T13:33:43.916829+00:00" name="calibre:timestamp"/>
+        <meta content="outils informatiques de prise de notes" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

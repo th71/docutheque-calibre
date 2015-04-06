@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">343</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7c49a093-6987-4980-b99f-9a09451fb74a</dc:identifier>
+        <dc:title>Minutes and Appendices (MAPS)</dc:title>
+        <dc:creator opf:file-as="Group, Dutch TeX User" opf:role="aut">Dutch TeX User Group (NTG)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.5.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>fr</dc:language>
+        <dc:subject>volume 11 (1993)</dc:subject>
+        <meta content="{&quot;Dutch TeX User Group (NTG)&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-04-06T13:34:31.453311+00:00" name="calibre:timestamp"/>
+        <meta content="Minutes and Appendices (MAPS)" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

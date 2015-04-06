@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">359</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">18ce6a21-df72-4bc0-af1f-a4e42058bd36</dc:identifier>
+        <dc:title>()</dc:title>
+        <dc:creator opf:file-as="()" opf:role="aut">()</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.5.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-10-31T14:39:41+00:00</dc:date>
+        <dc:description>()</dc:description>
+        <dc:language>fr</dc:language>
+        <meta content="{&quot;()&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-04-06T13:37:41.861375+00:00" name="calibre:timestamp"/>
+        <meta content="()" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

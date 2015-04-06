@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">260</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e0e86025-4138-4126-bfd1-c8f9162f1c8c</dc:identifier>
+        <dc:title>Fiche Horaires 50</dc:title>
+        <dc:creator opf:file-as="Inconnu(e)" opf:role="aut">Inconnu(e)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.5.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>fr</dc:language>
+        <meta content="{&quot;Inconnu(e)&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-04-06T13:22:53.532318+00:00" name="calibre:timestamp"/>
+        <meta content="Fiche Horaires 50" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

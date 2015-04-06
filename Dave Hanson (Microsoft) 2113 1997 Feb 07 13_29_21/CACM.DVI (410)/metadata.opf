@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">410</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d70fe711-b65f-44d6-9b23-55c50f9b5d1d</dc:identifier>
+        <dc:title>CACM.DVI</dc:title>
+        <dc:creator opf:file-as="13:29:21, Dave Hanson 2113 1997 Feb 07" opf:role="aut">Dave Hanson (Microsoft) 2113 1997 Feb 07 13:29:21</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.5.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>fr</dc:language>
+        <dc:subject>TeX output 1997.05.16:2039</dc:subject>
+        <meta content="{&quot;Dave Hanson (Microsoft) 2113 1997 Feb 07 13:29:21&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-04-06T13:41:26.777767+00:00" name="calibre:timestamp"/>
+        <meta content="CACM.DVI" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

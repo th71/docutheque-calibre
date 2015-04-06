@@ -603,6 +603,10 @@
   "cover_grid_icon_rules": [], 
   "gui_view_history": [
     [
+      287, 
+      "Article -- Tutoriel Litterate Programming"
+    ], 
+    [
       81, 
       "Understanding Computer Programming as a Litteracy"
     ], 
@@ -657,10 +661,6 @@
     [
       13, 
       "The literate programming paradigm"
-    ], 
-    [
-      12, 
-      "Literate Programming : A practioner's view"
     ]
   ], 
   "column_icon_rules": [], 
@@ -676,7 +676,7 @@
       "tags": 101, 
       "series": 0, 
       "timestamp": 60, 
-      "title": 266, 
+      "title": 338, 
       "publisher": 0, 
       "languages": 0, 
       "last_modified": 0, 
@@ -701,15 +701,15 @@
     "sort_history": [
       [
         "tags", 
-        false
-      ], 
-      [
-        "rating", 
-        false
-      ], 
-      [
-        "authors", 
         true
+      ], 
+      [
+        "title", 
+        true
+      ], 
+      [
+        "tags", 
+        false
       ], 
       [
         "timestamp", 

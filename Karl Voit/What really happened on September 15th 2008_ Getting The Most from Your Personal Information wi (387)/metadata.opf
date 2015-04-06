@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">387</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">34077a0c-6257-4ec9-81d4-5fb0318367df</dc:identifier>
+        <dc:title>What really happened on September 15th 2008? Getting The Most from Your Personal Information with Memacs</dc:title>
+        <dc:creator opf:file-as="Voit, Karl" opf:role="aut">Karl Voit</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.5.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>fr</dc:language>
+        <dc:subject>Personal Information Management</dc:subject>
+        <dc:subject>information retrieval systems</dc:subject>
+        <dc:subject>file storage</dc:subject>
+        <dc:subject>Memex</dc:subject>
+        <dc:subject>Memacs</dc:subject>
+        <dc:subject>Emacs</dc:subject>
+        <dc:subject>GNU Emacs</dc:subject>
+        <dc:subject>Org-mode</dc:subject>
+        <dc:subject>orgmode</dc:subject>
+        <dc:subject>life logging</dc:subject>
+        <dc:subject>Quantified self</dc:subject>
+        <dc:subject>dynamic structures</dc:subject>
+        <meta content="{&quot;Karl Voit&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-04-06T13:39:40.124029+00:00" name="calibre:timestamp"/>
+        <meta content="What really happened on September 15th 2008? Getting The Most from Your Personal Information with Memacs" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

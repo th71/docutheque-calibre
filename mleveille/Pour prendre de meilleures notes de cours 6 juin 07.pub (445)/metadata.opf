@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">445</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8fc2a5d5-75d0-4158-912d-cc94a14fbce8</dc:identifier>
+        <dc:title>Pour prendre de meilleures notes de cours 6 juin 07.pub</dc:title>
+        <dc:creator opf:file-as="mleveille" opf:role="aut">mleveille</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.5.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-06-14T15:55:25+00:00</dc:date>
+        <dc:language>fr</dc:language>
+        <meta content="{&quot;mleveille&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-04-06T13:44:15.092614+00:00" name="calibre:timestamp"/>
+        <meta content="Pour prendre de meilleures notes de cours 6 juin 07.pub" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

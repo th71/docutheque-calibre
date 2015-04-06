@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">394</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f9d97aeb-aa4f-4335-abfb-0d2767408887</dc:identifier>
+        <dc:title>Cisco Small Business IP Telephony Devices Provisioning Guide</dc:title>
+        <dc:creator opf:file-as="tdobrovo" opf:role="aut">tdobrovo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.5.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>fr</dc:language>
+        <dc:subject>Voice System</dc:subject>
+        <dc:subject>Voice Gateways</dc:subject>
+        <dc:subject>and IP Telephones</dc:subject>
+        <dc:subject>OL-19687</dc:subject>
+        <dc:subject>provisioning guide</dc:subject>
+        <dc:subject>Cisco Small Business Voice Gateways and ATAs</dc:subject>
+        <meta content="{&quot;tdobrovo&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-04-06T13:40:07.384601+00:00" name="calibre:timestamp"/>
+        <meta content="Cisco Small Business IP Telephony Devices Provisioning Guide" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

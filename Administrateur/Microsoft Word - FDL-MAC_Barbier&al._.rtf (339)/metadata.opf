@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">339</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d0d783f1-39b5-4b13-b6d3-2ddaab6f63f6</dc:identifier>
+        <dc:title>Microsoft Word - FDL-MAC_Barbier&amp;al._.rtf</dc:title>
+        <dc:creator opf:file-as="Administrateur" opf:role="aut">Administrateur</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.5.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-11-10T16:00:31+00:00</dc:date>
+        <dc:language>fr</dc:language>
+        <meta content="{&quot;Administrateur&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-04-06T13:34:12.396458+00:00" name="calibre:timestamp"/>
+        <meta content="Microsoft Word - FDL-MAC_Barbier&amp;al._.rtf" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

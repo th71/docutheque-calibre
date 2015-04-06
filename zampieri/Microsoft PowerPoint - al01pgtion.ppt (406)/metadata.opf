@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">406</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">677a372d-c23d-4ec5-91dd-dc78672d0da2</dc:identifier>
+        <dc:title>Microsoft PowerPoint - al01pgtion.ppt</dc:title>
+        <dc:creator opf:file-as="zampieri" opf:role="aut">zampieri</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.5.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>fr</dc:language>
+        <meta content="{&quot;zampieri&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-04-06T13:41:08.325422+00:00" name="calibre:timestamp"/>
+        <meta content="Microsoft PowerPoint - al01pgtion.ppt" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

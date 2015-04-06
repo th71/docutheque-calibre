@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">292</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4dffae6a-8920-4c54-a9a7-c99506c88f2f</dc:identifier>
+        <dc:title>Opening the Early Modern ToolBox:? The Digital Interleaf and Digital Commonplace Book | Schofield | Scholarly and Research Communication</dc:title>
+        <dc:creator opf:file-as="Local, Thierry Compte" opf:role="aut">Thierry Compte Local</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.5.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-11-14T10:39:11+00:00</dc:date>
+        <dc:description>()</dc:description>
+        <dc:language>fr</dc:language>
+        <meta content="{&quot;Thierry Compte Local&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-04-06T13:29:28.142816+00:00" name="calibre:timestamp"/>
+        <meta content="Opening the Early Modern ToolBox:? The Digital Interleaf and Digital Commonplace Book | Schofield | Scholarly and Research Communication" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

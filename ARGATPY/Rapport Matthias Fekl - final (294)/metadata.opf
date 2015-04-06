@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">294</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">327eeeb2-7de8-4ecc-8957-0d7bbdc29e70</dc:identifier>
+        <dc:title>Rapport Matthias Fekl - final</dc:title>
+        <dc:creator opf:file-as="ARGATPY" opf:role="aut">ARGATPY</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.5.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-05-13T09:56:20+00:00</dc:date>
+        <dc:language>fr</dc:language>
+        <meta content="{&quot;ARGATPY&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-04-06T13:29:46.903256+00:00" name="calibre:timestamp"/>
+        <meta content="Rapport Matthias Fekl - final" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

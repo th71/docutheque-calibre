@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">351</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">08590846-f33d-4a3b-9e79-96f3c2b476aa</dc:identifier>
+        <dc:title>Cisco Small Business Analog Telephone Adapters Administration Guide</dc:title>
+        <dc:creator opf:file-as="lbeason" opf:role="aut">lbeason</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.5.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>fr</dc:language>
+        <dc:subject>Small Business voice gateway</dc:subject>
+        <dc:subject>voice gateway</dc:subject>
+        <dc:subject>SPA2102</dc:subject>
+        <dc:subject>SPA3102</dc:subject>
+        <dc:subject>SPA8000</dc:subject>
+        <dc:subject>SPA8800</dc:subject>
+        <dc:subject>PAP2T</dc:subject>
+        <dc:subject>manual</dc:subject>
+        <dc:subject>administration guide</dc:subject>
+        <dc:subject>configuration guide</dc:subject>
+        <meta content="{&quot;lbeason&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-04-06T13:35:01.961250+00:00" name="calibre:timestamp"/>
+        <meta content="Cisco Small Business Analog Telephone Adapters Administration Guide" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

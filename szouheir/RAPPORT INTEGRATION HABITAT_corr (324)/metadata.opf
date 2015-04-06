@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">324</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ab55b921-c50e-439d-9ae7-45770719ba6f</dc:identifier>
+        <dc:title>RAPPORT INTEGRATION HABITAT_corr</dc:title>
+        <dc:creator opf:file-as="szouheir" opf:role="aut">szouheir</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.5.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-11-27T18:51:06+00:00</dc:date>
+        <dc:description>()</dc:description>
+        <dc:language>fr</dc:language>
+        <meta content="{&quot;szouheir&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-04-06T13:32:54.938070+00:00" name="calibre:timestamp"/>
+        <meta content="RAPPORT INTEGRATION HABITAT_corr" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>
